@@ -31,3 +31,7 @@ article{
 header{
     color: white;
 }
+
+nav>ul>li{
+    color: yellow;
+}
